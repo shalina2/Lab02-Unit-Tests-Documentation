@@ -1,1 +1,2 @@
 # Lab02-Unit-Tests-Documentation
+this is ATM machine.so i built three functions inside which view balance withdraw money and add money.I also USED the if and else statment.so how this works is,there is a menu window and a customer choose from the option mentioned.and enter his preference number for example #1 is view balance and so on.
